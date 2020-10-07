@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到志崎的小花园
+## 这是一个基于GitHub的网页
+
 
 You can use the [editor on GitHub](https://github.com/wendao365/myh5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
